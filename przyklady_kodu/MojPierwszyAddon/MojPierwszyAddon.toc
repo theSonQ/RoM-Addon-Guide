@@ -1,0 +1,6 @@
+## Title: MojPierwszyAddon
+## Notes: Hello World
+## Author: theSonQ
+## Version: 0.1
+
+MojPierwszyAddon.lua

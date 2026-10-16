@@ -1,0 +1,1 @@
+SendSystemChat("Witaj Świecie :f")
